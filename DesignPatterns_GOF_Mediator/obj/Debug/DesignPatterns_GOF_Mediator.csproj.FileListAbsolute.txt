@@ -1,0 +1,7 @@
+C:\Users\Riklef\source\repos\DesignPatterns\DesignPatterns_GOF_Mediator\bin\Debug\DesignPatterns_GOF_Mediator.exe.config
+C:\Users\Riklef\source\repos\DesignPatterns\DesignPatterns_GOF_Mediator\bin\Debug\DesignPatterns_GOF_Mediator.exe
+C:\Users\Riklef\source\repos\DesignPatterns\DesignPatterns_GOF_Mediator\bin\Debug\DesignPatterns_GOF_Mediator.pdb
+C:\Users\Riklef\source\repos\DesignPatterns\DesignPatterns_GOF_Mediator\obj\Debug\DesignPatterns_GOF_Mediator.csprojAssemblyReference.cache
+C:\Users\Riklef\source\repos\DesignPatterns\DesignPatterns_GOF_Mediator\obj\Debug\DesignPatterns_GOF_Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Riklef\source\repos\DesignPatterns\DesignPatterns_GOF_Mediator\obj\Debug\DesignPatterns_GOF_Mediator.exe
+C:\Users\Riklef\source\repos\DesignPatterns\DesignPatterns_GOF_Mediator\obj\Debug\DesignPatterns_GOF_Mediator.pdb
